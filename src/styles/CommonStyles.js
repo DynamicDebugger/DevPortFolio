@@ -35,12 +35,12 @@ export const glassMorphism = {
 };
 
 const StatsContainer = styled.div`
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr 1fr; // Two columns for larger screens
+  gap: 20px; // Space between grid items
   margin-top: 40px;
 
   @media (max-width: 768px) {
-    flex-direction: column; // Stack items vertically on smaller screens
-    align-items: center; // Center align items
+    grid-template-columns: 1fr; // Stack items in a single column on smaller screens
   }
 `; 
