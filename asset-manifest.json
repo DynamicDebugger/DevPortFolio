@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/DevPortFolio/static/css/main.e6c13ad2.css",
+    "main.js": "/DevPortFolio/static/js/main.e5ac508c.js",
+    "static/js/488.1446b851.chunk.js": "/DevPortFolio/static/js/488.1446b851.chunk.js",
+    "static/media/balapic.jpg": "/DevPortFolio/static/media/balapic.bb0cf83262d524d30abe.jpg",
+    "static/media/fullstack-banking.png": "/DevPortFolio/static/media/fullstack-banking.61ae2f2bac024af7e3a8.png",
+    "static/media/OD-automation.png": "/DevPortFolio/static/media/OD-automation.57d61d30b5816f98509d.png",
+    "static/media/voting-blockchain.png": "/DevPortFolio/static/media/voting-blockchain.25785916f28422ace4da.png",
+    "static/media/09.jpg": "/DevPortFolio/static/media/09.35e41d1d1793384c166a.jpg",
+    "static/media/sis-sample.png": "/DevPortFolio/static/media/sis-sample.8771f0fba5d6314b621f.png",
+    "static/media/Bootstrap_logo.svg.png": "/DevPortFolio/static/media/Bootstrap_logo.svg.f51eaa41439f58e04f26.png",
+    "static/media/rideshare-app.png": "/DevPortFolio/static/media/rideshare-app.ec646c1e722bdebba958.png",
+    "static/media/text-summarizer.png": "/DevPortFolio/static/media/text-summarizer.14fefb2ab4f8c63db0cd.png",
+    "static/media/hackathon-tracker.png": "/DevPortFolio/static/media/hackathon-tracker.455c16727657a15fb680.png",
+    "static/media/eclipse-logo.png": "/DevPortFolio/static/media/eclipse-logo.2ad62ba9c60942fa8227.png",
+    "static/media/tab-icon-01.png": "/DevPortFolio/static/media/tab-icon-01.018a93cfd5615b8c785d.png",
+    "static/media/vscode.webp": "/DevPortFolio/static/media/vscode.2837e0f55129ea6edcfc.webp",
+    "static/media/portfolio-sample.png": "/DevPortFolio/static/media/portfolio-sample.1bf08d5e6e6996a22dc3.png",
+    "static/media/coding-platform.png": "/DevPortFolio/static/media/coding-platform.1df62f331d0ddbdedd06.png",
+    "static/media/tic-tac-toe.png": "/DevPortFolio/static/media/tic-tac-toe.60e4c9082d9c866d872c.png",
+    "static/media/typescript.png": "/DevPortFolio/static/media/typescript.17936c69824e11a996c4.png",
+    "static/media/react.png": "/DevPortFolio/static/media/react.c5b0245f707d5ac80cac.png",
+    "static/media/postman-icon.svg": "/DevPortFolio/static/media/postman-icon.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
+    "static/media/java.png": "/DevPortFolio/static/media/java.497bb1cdbf251a3ee9cc.png",
+    "static/media/js.png": "/DevPortFolio/static/media/js.266bd9fb2663dcc057b4.png",
+    "static/media/mysql.png": "/DevPortFolio/static/media/mysql.17ec01314179e9a8ab58.png",
+    "static/media/tailwind.svg": "/DevPortFolio/static/media/tailwind.58b1cfbdbf83eec45691d651f1ee4580.svg",
+    "index.html": "/DevPortFolio/index.html",
+    "main.e6c13ad2.css.map": "/DevPortFolio/static/css/main.e6c13ad2.css.map",
+    "main.e5ac508c.js.map": "/DevPortFolio/static/js/main.e5ac508c.js.map",
+    "488.1446b851.chunk.js.map": "/DevPortFolio/static/js/488.1446b851.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5ac508c.js"
+  ]
+}
