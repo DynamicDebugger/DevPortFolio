@@ -1,3 +1,5 @@
+import styled from 'styled-components';
+
 export const colors = {
   primary: '#ff004f',
   darkBg: '#1f1f1f',
@@ -30,4 +32,15 @@ export const glassMorphism = {
     blur: '10px',
     border: '1px solid rgba(255, 255, 255, 0.1)',
   },
-}; 
+};
+
+const StatsContainer = styled.div`
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+
+  @media (max-width: 768px) {
+    flex-direction: column; // Stack items vertically on smaller screens
+    align-items: center; // Center align items
+  }
+`; 
