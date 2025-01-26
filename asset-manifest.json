@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DevPortFolio/static/css/main.e6c13ad2.css",
-    "main.js": "/DevPortFolio/static/js/main.e5ac508c.js",
+    "main.js": "/DevPortFolio/static/js/main.4801a1d7.js",
     "static/js/488.1446b851.chunk.js": "/DevPortFolio/static/js/488.1446b851.chunk.js",
     "static/media/balapic.jpg": "/DevPortFolio/static/media/balapic.bb0cf83262d524d30abe.jpg",
     "static/media/fullstack-banking.png": "/DevPortFolio/static/media/fullstack-banking.61ae2f2bac024af7e3a8.png",
@@ -25,14 +25,14 @@
     "static/media/java.png": "/DevPortFolio/static/media/java.497bb1cdbf251a3ee9cc.png",
     "static/media/js.png": "/DevPortFolio/static/media/js.266bd9fb2663dcc057b4.png",
     "static/media/mysql.png": "/DevPortFolio/static/media/mysql.17ec01314179e9a8ab58.png",
-    "static/media/tailwind.svg": "/DevPortFolio/static/media/tailwind.58b1cfbdbf83eec45691d651f1ee4580.svg",
+    "static/media/tailwind.svg": "/DevPortFolio/static/media/tailwind.5a33f1cf6c0224320cc32a7a69a8a5e6.svg",
     "index.html": "/DevPortFolio/index.html",
     "main.e6c13ad2.css.map": "/DevPortFolio/static/css/main.e6c13ad2.css.map",
-    "main.e5ac508c.js.map": "/DevPortFolio/static/js/main.e5ac508c.js.map",
+    "main.4801a1d7.js.map": "/DevPortFolio/static/js/main.4801a1d7.js.map",
     "488.1446b851.chunk.js.map": "/DevPortFolio/static/js/488.1446b851.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e5ac508c.js"
+    "static/js/main.4801a1d7.js"
   ]
 }
