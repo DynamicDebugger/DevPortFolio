@@ -168,9 +168,14 @@ const HighlightDate = styled.p`
 `;
 
 const StatsContainer = styled.div`
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
   margin-top: 40px;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
 `;
 
 const LeetCodeStatsSection = styled.div`
